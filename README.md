@@ -9,16 +9,16 @@ Outputs:
  * TOP - out1: constant TOP output
 
 Parameters:
-    Controls
-        * H : Controls hue
-        * S: Controls saturation
-        * V : Controls value
-        * A : Controls alpha
-    Values
-        * Values: RGBA read only parameters for referencing RGBA output created using HSVA controls.
-    Constant
-        * Bound constant top params from constant page
-    Common
-        * Bound constant top params from common page
+* Controls
+    * H: Controls hue
+    * S: Controls saturation
+    * V: Controls value
+    * A: Controls alpha
+* Values
+    * Values: RGBA read only parameters for referencing RGBA output created using HSVA controls.
+* Constant
+    * Bound constant top params from constant page
+* Common
+    * Bound constant top params from common page
 
 
